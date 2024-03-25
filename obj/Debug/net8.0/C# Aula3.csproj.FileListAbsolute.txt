@@ -1,0 +1,14 @@
+C:\Users\bryan\OneDrive\Área de Trabalho\C# Aula3\bin\Debug\net8.0\C# Aula3.exe
+C:\Users\bryan\OneDrive\Área de Trabalho\C# Aula3\bin\Debug\net8.0\C# Aula3.deps.json
+C:\Users\bryan\OneDrive\Área de Trabalho\C# Aula3\bin\Debug\net8.0\C# Aula3.runtimeconfig.json
+C:\Users\bryan\OneDrive\Área de Trabalho\C# Aula3\bin\Debug\net8.0\C# Aula3.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\C# Aula3\bin\Debug\net8.0\C# Aula3.pdb
+C:\Users\bryan\OneDrive\Área de Trabalho\C# Aula3\obj\Debug\net8.0\C# Aula3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryan\OneDrive\Área de Trabalho\C# Aula3\obj\Debug\net8.0\C# Aula3.AssemblyInfoInputs.cache
+C:\Users\bryan\OneDrive\Área de Trabalho\C# Aula3\obj\Debug\net8.0\C# Aula3.AssemblyInfo.cs
+C:\Users\bryan\OneDrive\Área de Trabalho\C# Aula3\obj\Debug\net8.0\C# Aula3.csproj.CoreCompileInputs.cache
+C:\Users\bryan\OneDrive\Área de Trabalho\C# Aula3\obj\Debug\net8.0\C# Aula3.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\C# Aula3\obj\Debug\net8.0\refint\C# Aula3.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\C# Aula3\obj\Debug\net8.0\C# Aula3.pdb
+C:\Users\bryan\OneDrive\Área de Trabalho\C# Aula3\obj\Debug\net8.0\C# Aula3.genruntimeconfig.cache
+C:\Users\bryan\OneDrive\Área de Trabalho\C# Aula3\obj\Debug\net8.0\ref\C# Aula3.dll
